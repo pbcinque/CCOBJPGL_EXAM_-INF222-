@@ -4,7 +4,7 @@ import Locations.Boracay;
 import Locations.Locations;
 import Locations.Bicol;
 import Locations.Batangas;
-import Locations.Palawan;
+import Locations.Ifugao;
 import Locations.Samar;
 import Locations.Davao;
 
